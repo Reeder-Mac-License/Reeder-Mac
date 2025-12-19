@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://reederapp.com/images/hero.png" width="1080" alt="Reeder Screenshot"/>  
+  <img src="https://reederapp.com/classic/5/images/s/mac2.png" width="1080" alt="Reeder Screenshot"/>  
 </div>  
 
 <br>  
